@@ -1,3 +1,3 @@
 # ConversorDeMoedas
 
-Um simples conversor de real para dólar.
+Um simples conversor de dólar para real.
